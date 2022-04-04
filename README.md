@@ -1,2 +1,2 @@
 # C-code-from-school-
-School projects
+Lightweight mark up language
